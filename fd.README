@@ -6,6 +6,7 @@
 이러한 문제는 심볼릭링크로 해결 할 수 있습니다
 
 사진
+![img](./images/fd/Screen Shot 2020-04-09 at 12.06.18 PM.png)
 
 실제 local환경에서 pwntools를 사용해 문제를 해결한 모습입니다
 
